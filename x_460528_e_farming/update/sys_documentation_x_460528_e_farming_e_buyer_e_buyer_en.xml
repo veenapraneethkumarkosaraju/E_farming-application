@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="e_buyer" label="E_buyer" language="en" table="x_460528_e_farming_e_buyer">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>e_buyer</element>
+            <help/>
+            <hint/>
+            <label>E_buyer</label>
+            <language>en</language>
+            <name>x_460528_e_farming_e_buyer</name>
+            <plural>E_buyers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-09 10:15:26</sys_created_on>
+            <sys_id>b814aff91b481010639140c6cc4bcbb8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>E_buyer</sys_name>
+            <sys_package display_value="E-Farming application" source="x_460528_e_farming">e6e26f391b481010639140c6cc4bcbd9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="E-Farming application">e6e26f391b481010639140c6cc4bcbd9</sys_scope>
+            <sys_update_name>sys_documentation_x_460528_e_farming_e_buyer_e_buyer_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-09 10:15:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

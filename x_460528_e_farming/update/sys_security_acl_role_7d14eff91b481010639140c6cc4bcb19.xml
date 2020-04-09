@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-09 10:15:31</sys_created_on>
+        <sys_id>7d14eff91b481010639140c6cc4bcb19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_460528_e_farming_e_buyer.x_460528_e_farming.vanama</sys_name>
+        <sys_package display_value="E-Farming application" source="x_460528_e_farming">e6e26f391b481010639140c6cc4bcbd9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="E-Farming application">e6e26f391b481010639140c6cc4bcbd9</sys_scope>
+        <sys_security_acl display_value="x_460528_e_farming_e_buyer">7514eff91b481010639140c6cc4bcb17</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7d14eff91b481010639140c6cc4bcb19</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-09 10:15:31</sys_updated_on>
+        <sys_user_role display_value="x_460528_e_farming.vanama" name="x_460528_e_farming.vanama">fb23e7b51b481010639140c6cc4bcbb3</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
